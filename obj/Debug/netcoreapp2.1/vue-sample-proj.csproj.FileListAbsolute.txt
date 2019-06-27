@@ -1,0 +1,14 @@
+D:\Tutorial\Vue\vue-sample-proj\obj\Debug\netcoreapp2.1\vue-sample-proj.csprojAssemblyReference.cache
+D:\Tutorial\Vue\vue-sample-proj\obj\Debug\netcoreapp2.1\vue-sample-proj.csproj.CoreCompileInputs.cache
+D:\Tutorial\Vue\vue-sample-proj\obj\Debug\netcoreapp2.1\vue-sample-proj.RazorAssemblyInfo.cache
+D:\Tutorial\Vue\vue-sample-proj\obj\Debug\netcoreapp2.1\vue-sample-proj.RazorAssemblyInfo.cs
+D:\Tutorial\Vue\vue-sample-proj\obj\Debug\netcoreapp2.1\vue-sample-proj.AssemblyInfoInputs.cache
+D:\Tutorial\Vue\vue-sample-proj\obj\Debug\netcoreapp2.1\vue-sample-proj.AssemblyInfo.cs
+D:\Tutorial\Vue\vue-sample-proj\bin\Debug\netcoreapp2.1\vue-sample-proj.deps.json
+D:\Tutorial\Vue\vue-sample-proj\bin\Debug\netcoreapp2.1\vue-sample-proj.runtimeconfig.json
+D:\Tutorial\Vue\vue-sample-proj\bin\Debug\netcoreapp2.1\vue-sample-proj.runtimeconfig.dev.json
+D:\Tutorial\Vue\vue-sample-proj\bin\Debug\netcoreapp2.1\vue-sample-proj.dll
+D:\Tutorial\Vue\vue-sample-proj\obj\Debug\netcoreapp2.1\vue-sample-proj.RazorTargetAssemblyInfo.cache
+D:\Tutorial\Vue\vue-sample-proj\bin\Debug\netcoreapp2.1\vue-sample-proj.pdb
+D:\Tutorial\Vue\vue-sample-proj\obj\Debug\netcoreapp2.1\vue-sample-proj.dll
+D:\Tutorial\Vue\vue-sample-proj\obj\Debug\netcoreapp2.1\vue-sample-proj.pdb
